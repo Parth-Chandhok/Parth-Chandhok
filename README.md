@@ -7,7 +7,7 @@ BTL1 certified (90%). MSc Cyber Security, University of Birmingham — Distincti
 ### What I'm building here
 
 - **[NTFS Timestamp Tampering Detection](https://github.com/Parth-Chandhok/ntfs-timestamp-tampering-detection)** — Python tool that catches faked file timestamps by cross-checking three Windows evidence sources. My MSc dissertation project.
-- **[Wazuh SOC Lab](https://github.com/Parth-Chandhok/wazuh-soc-lab)** — a working security monitoring setup: Wazuh on Ubuntu, a Windows endpoint, file integrity monitoring and alert triage.
+- **[Wazuh SOC Lab]** — a working security monitoring setup: Wazuh on Ubuntu, a Windows endpoint, file integrity monitoring and alert triage.
 
 ### Recent
 
